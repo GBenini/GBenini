@@ -17,7 +17,7 @@ Atualmente cursando o Bootcamp da Rocketseat 🚀 e matriculado no MBA USP/Esalq
 - 🌎 Sou de Americana - SP
 - 👨🏻‍💻 Amo programar e jogar
 - 🧠 Amo compartilhar ideias e aprender coisas novas
-- 🎬 Apaixonado por Filme e Series
+- 🎬 Apaixonado por Filmes e Séries
 - ✈️ Viajar é meu hobbie favorito
 - 📧 Me contate em guigabenini@gmail.com
 
