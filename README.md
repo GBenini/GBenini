@@ -10,16 +10,16 @@ Tive meu primeiro contato com tecnologia em 2022 e venho estudando para me aprim
 Atualmente cursando o Bootcamp da Rocketseat 🚀 e matriculado no MBA USP/Esalq em Engenharia de Softaware.
 
 
-## 👨🏻‍💻 About me
+## 👨🏻‍💻 Sobre mim
 
 <img src="./images/message.gif" width="300px" align="right">
 
-- 🌎 I'm from Brazil
-- 👨🏻‍💻 Love programming and gaming
-- 🧠 Love sharing knowledge
-- 🎬 Passionate for movies
-- ✈️ Traveling is one of my favorite hobbies
-- 📧 Reach me via guigabenini@gmail.com
+- 🌎 Sou de Americana - SP
+- 👨🏻‍💻 Amo programar e jogar
+- 🧠 Amo compartilhar ideias e aprender coisas novas
+- 🎬 Apaixonado por Filme e Series
+- ✈️ Viajar é meu hobbie favorito
+- 📧 Me contate em guigabenini@gmail.com
 
 <br>
 <br>
@@ -35,7 +35,7 @@ Atualmente cursando o Bootcamp da Rocketseat 🚀 e matriculado no MBA USP/Esalq
 ![ReactJS Logo](/images/reactjs.svg)
 ![Typescript Logo](/images/typescript.svg)
 
-## 📊 Take a look in my stats
+## 📊 De uma olhada nos meus Stats
 
 <a href="https://github.com/GBenini">
 <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=GBenini&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
